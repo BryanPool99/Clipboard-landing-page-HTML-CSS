@@ -1,3 +1,4 @@
+This is the page: https://velvety-capybara-085885.netlify.app/
 # Frontend Mentor - Clipboard landing page
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
